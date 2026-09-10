@@ -162,7 +162,14 @@ practicumsuperstore.local
 
 ## Артефакты проекта
 
-> Архив со скриншотами выполнения и проверок будет добавлен после загрузки в репозиторий.
+### Архивы скриншотов проверок
+
+- [Часть 1 — сеть: VLAN, маршрутизация, DHCP, NAT, DNAT и межофисная связность](SuperstorePart1NetworkEvidence.zip)
+- [Часть 2 — Linux-сервисы: DNS, NTP, Ansible, Postfix, FTP, Nginx и синхронизация времени](SuperstorePart2LinuxServicesEvidence.zip)
+- [Часть 3.1 — Active Directory: домен, OU, пользователь и группа](SuperstorePart3ActiveDirectoryEvidence01.zip)
+- [Часть 3.2 — Active Directory: присоединение клиента и проверка GPO](SuperstorePart3ActiveDirectoryEvidence02.zip)
+
+> Архивы содержат скриншоты выполнения и проверок в изолированной учебной среде EVE-NG и виртуальных машинах.
 
 - [Топология сети Superstore](superstore-network-topology.jpg)
 - [Роли и взаимодействие Linux-хостов](superstore-linux-services.jpg)
